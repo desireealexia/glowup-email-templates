@@ -14,10 +14,28 @@ This project showcases three responsive, mobile-first HTML email templates for a
 - Tested with Litmus
 
 ## 📸 Previews
-*Screenshots included for desktop, mobile, and tablet views.*
+<img src="images/screenshots/welcome-preview-desktop.png" width="600" alt="Welcome Desktop" />  
+<img src="images/screenshots/welcome-preview-tablet.png" width="400" alt="Welcome Tablet" />  
+<img src="images/screenshots/welcome-preview-mobile.png" width="250" alt="Welcome Mobile" />  
 
-## 🔗 Live Demo (optional)
-If hosted via GitHub Pages or other email render tools.
+### Newsletter Email  
+<img src="images/screenshots/newsletter-preview-desktop.png" width="600" alt="Newsletter Desktop" />  
+<img src="images/screenshots/newsletter-preview-tablet.png" width="400" alt="Newsletter Tablet" />  
+<img src="images/screenshots/newsletter-preview-mobile.png" width="250" alt="Newsletter Mobile" />  
+
+### Promo Email  
+<img src="images/screenshots/promo-preview-desktop.png" width="600" alt="Promo Desktop" />  
+<img src="images/screenshots/promo-preview-tablet.png" width="400" alt="Promo Tablet" />  
+<img src="images/screenshots/promo-preview-mobile.png" width="250" alt="Promo Mobile" />  
+
+> 💡 *All screenshots were taken using real device testing or rendering tools for accurate preview.*
+
+
+## 🔗 Live Demo
+You can view the full project hosted on GitHub Pages here:  
+👉 **[Live Landing Page](https://desireealexia.github.io/glowup-email-templates/)** 
+
+Each email is viewable from that page or via the direct links above.
 
 ## 📁 How to View
 Just clone this repo and open each `index.html` file in your browser.
