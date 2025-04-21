@@ -3,9 +3,9 @@
 This project showcases three responsive, mobile-first HTML email templates for a fictional K-beauty brand, GlowUp Skincare. Designed to reflect a clean, modern skincare aesthetic and tested across devices.
 
 ## ✨ Templates Included
-- **Welcome Email** - Intro to the brand and K-beauty skincare routine
-- **Newsletter** – Educational content on double cleansing
-- **Promo Email** – Face mask sale with real K-beauty products
+- **[Welcome Email](welcome-email/index.html)** - Intro to the brand and K-beauty skincare routine
+- **[Newsletter](newsletter-email/index.html)** – Educational content on double cleansing
+- **[Promo Email](promo-email/index.html)** – Face mask sale with real K-beauty products
 
 ## 💻 Tech & Best Practices
 - Mobile-first, responsive design
